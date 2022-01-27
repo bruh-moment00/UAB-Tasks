@@ -1,0 +1,16 @@
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.exe
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.deps.json
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.runtimeconfig.json
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.dll
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\ref\1 Задача.dll
+C:\Users\Nikita\source\repos\1 Задача\bin\Debug\net5.0\1 Задача.pdb
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.dll
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\ref\1 Задача.dll
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.pdb
+C:\Users\Nikita\source\repos\1 Задача\obj\Debug\net5.0\1 Задача.genruntimeconfig.cache
